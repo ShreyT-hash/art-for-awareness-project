@@ -75,12 +75,13 @@ function App() {
 
 
 
-
-  <CountUp className={"text-wrapper top-left"} delay={0.4} start={0} end={40} duration={8} />
+<div>  <CountUp className={"text-wrapper top-left"} delay={0.4} start={0} end={40} duration={8} />
   <p className={"text-wrapper line-top"}> % of pregnant women in the world have anemia </p>
+  </div>
+<div>
   <CountUp className={"text-wrapper bottom"} delay={0.4} start={0} end={6} duration={11} />
   <p className={"text-wrapper line-bottom"}>out of every 10 children in Sub-Saharan Africa are anemic</p>
-
+  </div>
 
 </div>
   );
