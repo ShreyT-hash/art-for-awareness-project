@@ -35,6 +35,33 @@
     color: rgb(135, 36, 21);
   }
 
+
+  .new-top-count {
+    margin-left: 20px;
+  }
+
+    .new-top-text {
+    margin-left: 500px;
+    font-weight: normal;
+    font-size: 20px;
+    width: 40vw;
+    color: black;
+  }
+
+    .new-bot-count {
+    margin-left: 800px;
+  }
+
+    .new-bot-text {
+    margin-left: 500px;
+    font-weight: normal;
+    font-size: 20px;
+    width: 40vw;
+    color: black;
+  }
+
+
+
   .mqtop {
     top: -19%;
     left: 50%;
