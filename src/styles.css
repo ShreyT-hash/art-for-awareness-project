@@ -77,21 +77,24 @@
   }
 
   .line-top {
-    top: 28%;
-    left: 17%;
+    top: 11em;
+    left: 5.5em;
+    /* background-color: palevioletred; */
+    width: 30vw;
     font-weight: normal;
     font-size: 20px;
     color: black;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
   .line-bottom {
-    top: 58%;
-    left: 66%;
+    top: 20.6em;
+    left: 14em;
+    width: 100vw;
     font-weight: normal;
     font-size: 22px;
     color: black;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
 
